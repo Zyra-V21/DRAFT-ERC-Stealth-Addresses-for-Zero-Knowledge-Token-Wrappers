@@ -2,7 +2,7 @@
 title: Stealth Addresses for Zero Knowledge Token Wrappers
 description: Extension to ERC-8065 enabling privacy-preserving receiving via ECDH-based stealth addresses
 author: Zyra V-21 (@ZyraV21), doublespeding (@doublespeding)
-discussions-to: <URL>
+discussions-to: https://ethereum-magicians.org/t/draft-erc-privacy-preserving-receiving-via-stealth-addresses-erc-8065-extension/27277/6
 status: Draft
 type: Standards Track
 category: ERC
